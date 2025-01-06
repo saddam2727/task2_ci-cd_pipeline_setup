@@ -16,10 +16,10 @@
 1.this is deploment application link
 ![Screenshot 2025-01-06 162011](https://github.com/user-attachments/assets/66528e71-2116-4c61-9f00-ecdd05926ee1)
 
-2.manully buitld
+2.auto buitld
 ![Screenshot 2025-01-06 162141](https://github.com/user-attachments/assets/9a3b340d-4e9c-4158-9637-9694e7525a7b)
 
-3.auto builtd
+3.manully builtd
 ![Screenshot 2025-01-06 162201](https://github.com/user-attachments/assets/27e13b58-b971-4a03-8964-b9bbf80cbf21)
 
 4.pipeline script
